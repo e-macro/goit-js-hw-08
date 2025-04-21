@@ -16,7 +16,7 @@ img {
 .gallery {
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
+    gap: 24px 24px;
 }
 
 .gallery>li{
